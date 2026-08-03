@@ -118,7 +118,7 @@
             "Dark Angel"
         ],
         "difficulty": "medium",
-        "image": "image/Medium/Dark-Angel.jpg"
+        "image": "image/medium/Dark-Angel.jpg"
     },
     {
         "id": 12,
@@ -173,7 +173,7 @@
             "Lol", "league of legend", "league of legends"
         ],
         "difficulty": "medium",
-        "image": "image/Medium/Vel'koz.jpg"
+        "image": "image/medium/Vel'koz.jpg"
     },
 
     {
@@ -185,7 +185,7 @@
             "FF 14", "FF XIV"
         ],
         "difficulty": "medium",
-        "image": "image/Medium/Y'shota.jpg"
+        "image": "image/medium/Y'shota.jpg"
     },
 
     {
@@ -329,7 +329,7 @@
             "Le Voyage de Chihiro", "Chihiro", "Sen to Chihiro no Kamikakushi"
         ],
         "difficulty": "secret",
-        "image": "image/Secret/haku.jpg"
+        "image": "image/secret/haku.jpg"
     },
 
     {
@@ -341,7 +341,7 @@
             "How to train your dragon", "dragon"
         ],
         "difficulty": "secret",
-        "image": "image/Secret/krokmou.jpg"
+        "image": "image/secret/krokmou.jpg"
     },
 
     {
@@ -353,7 +353,7 @@
             "Pokemon", "Pokemon noir et blanc"
         ],
         "difficulty": "secret",
-        "image": "image/Secret/kyurem.jpg"
+        "image": "image/secret/kyurem.jpg"
     },
 
     {
@@ -365,7 +365,7 @@
             "la belle au bois dormant", "belle au bois dormant"
         ],
         "difficulty": "secret",
-        "image": "image/Secret/malefique.jpg"
+        "image": "image/secret/malefique.jpg"
     },
     
     {
@@ -377,7 +377,7 @@
             "Mulan"
         ],
         "difficulty": "secret",
-        "image": "image/Secret/mushu.jpg"
+        "image": "image/secret/mushu.jpg"
     },
     
     {
@@ -389,7 +389,7 @@
             "Spyro", "Spyro the Dragon"
         ],
         "difficulty": "secret",
-        "image": "image/Secret/spyro.jpg"
+        "image": "image/secret/spyro.jpg"
     },
     
     {
@@ -401,7 +401,7 @@
             "Eragon"
         ],
         "difficulty": "secret",
-        "image": "image/Secret/saphira.jpg"
+        "image": "image/secret/saphira.jpg"
     },
     
     {
@@ -413,7 +413,7 @@
             "Dragon Ball"
         ],
         "difficulty": "secret",
-        "image": "image/Secret/shenron.jpg"
+        "image": "image/secret/shenron.jpg"
     }
 
 ]
