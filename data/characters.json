@@ -1,0 +1,419 @@
+[
+    {
+        "id": 1,
+        "character": [
+            "Figaro"
+        ],
+        "anime": [
+            "pinocchio"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Figaro.png"
+    },
+    {
+        "id": 2,
+        "character": [
+            "Harukaze Doremi", "Harkaze", "Doremi"
+        ],
+        "anime": [
+            "Magical Doremi", "Doremi"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/harukazeDoremi.png"
+    },
+    {
+        "id": 3,
+        "character": [
+            "kuzco"
+        ],
+        "anime": [
+            "Kuzco"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/kuzco.jpg"
+    },
+    {
+        "id": 4,
+        "character": [
+            "Malenia"
+        ],
+        "anime": [
+            "Elden Ring"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Malenia.jpg"
+    },
+    {
+        "id": 5,
+        "character": [
+            "Shirayuki"
+        ],
+        "anime": [
+            "Shirayuki aux cheveux rouges", "Akagami no Shirayuki-hime", "Akagami no Shirayuki"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Shirayuki.jpg"
+    },
+    {
+        "id": 6,
+        "character": [
+            "Stitch", "Ellfira"
+        ],
+        "anime": [
+            "Lilo et Stitch"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Stitch.png"
+    },
+    {
+        "id": 7,
+        "character": [
+            "Tohru Honda", "Toru Honda", "Tohru"
+        ],
+        "anime": [
+            "Fruit Basket", "Fruits Basket", "FruitsBasket", "FruitBasket"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Tohru.jpg"
+    },
+    {
+        "id": 8,
+        "character": [
+            "Yona"
+        ],
+        "anime": [
+            "Yona princesse de l'aube", "Akatsuki no Yona"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Yona.jpg"
+    },
+    {
+        "id": 9,
+        "character": [
+            "Alastor"
+        ],
+        "anime": [
+            "Hazbin Hotel"
+        ],
+        "difficulty": "medium",
+        "image": "image/medium/Alastor.jpg"
+    },
+    {
+        "id": 10,
+        "character": [
+            "Batrapa"
+        ],
+        "anime": [
+            "Le prince dragon", "The Dragon Prince"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Batrapa.jpg"
+    },
+    {
+        "id": 11,
+        "character": [
+            "Max Guevara", "Max"
+        ],
+        "anime": [
+            "Dark Angel"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Dark-Angel.jpg"
+    },
+    {
+        "id": 12,
+        "character": [
+            "Fievel", "Fievel Souriskewitz"
+        ],
+        "anime": [
+            "Fievel et le nouveau Monde"
+        ],
+        "difficulty": "medium",
+        "image": "image/medium/Fievel.jpg"
+    },
+    {
+        "id": 13,
+        "character": [
+            "Kieffrey"
+        ],
+        "anime": [
+            "Witch Hat atelier", "L'atelier des sorciers"
+        ],
+        "difficulty": "medium",
+        "image": "image/medium/Kieffrey.jpg"
+    },
+    {
+        "id": 14,
+        "character": [
+            "Puck"
+        ],
+        "anime": [
+            "Re:Zero", "Re Zero", "ReZero"
+        ],
+        "difficulty": "medium",
+        "image": "image/medium/Puck.png"
+    },
+    {
+        "id": 15,
+        "character": [
+            "Stolas"
+        ],
+        "anime": [
+            "Helluva Boss"
+        ],
+        "difficulty": "medium",
+        "image": "image/medium/Stolas.jpg"
+    },
+    {
+        "id": 16,
+        "character": [
+            "Vel'koz"
+        ],
+        "anime": [
+            "Lol", "league of legend", "league of legends"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Vel'koz.jpg"
+    },
+
+    {
+        "id": 17,
+        "character": [
+            "Y'shota", "Lilounne"
+        ],
+        "anime": [
+            "FF 14", "FF XIV"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Y'shota.jpg"
+    },
+
+    {
+        "id": 18,
+        "character": [
+            "Castorice"
+        ],
+        "anime": [
+            "Honkai Star Rail", "HSR"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Castorice.jpg"
+    },
+
+    {
+        "id": 19,
+        "character": [
+            "Desscaras"
+        ],
+        "anime": [
+            "Itchy the Witch"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/desscaras.jpg"
+    },
+
+    {
+        "id": 20,
+        "character": [
+            "Arthur Groseille","Philtux"
+        ],
+        "anime": [
+            "BG3", "BG 3", "Baldur's Gate 3", "Baldur Gate 3", "Baldurs Gate 3"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Philtux.png"
+    },
+
+    {
+        "id": 21,
+        "character": [
+            "Setsuna Modo"
+        ],
+        "anime": [
+            "Angel Sanctuary"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Setsuna Modo.jpg"
+    },
+
+    {
+        "id": 22,
+        "character": [
+            "Van", "Van Fanel"
+        ],
+        "anime": [
+            "Vision of Escaflowne", "Escaflowne"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Van.jpg"
+    },
+
+    {
+        "id": 23,
+        "character": [
+            "Yufine"
+        ],
+        "anime": [
+            "Epic Seven"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Yufine.jpg"
+    },
+
+    {
+        "id": 24,
+        "character": [
+            "Kiza", "Zaza"
+        ],
+        "anime": [
+            "IRL", "la vraie vie"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Zaza.jpg"
+    },
+
+    {
+        "id": 25,
+        "character": [
+            "Bahamut"
+        ],
+        "anime": [
+            "FF 14", "FF XIV"
+        ],
+        "difficulty": "secret",
+        "image": "image/secret/bahamut.jpg"
+    },
+
+    {
+        "id": 26,
+        "character": [
+            "dragonne", "la dragonne"
+        ],
+        "anime": [
+            "Shrek"
+        ],
+        "difficulty": "secret",
+        "image": "image/secret/dragonne.jpg"
+    },
+
+    {
+        "id": 27,
+        "character": [
+            "Falkor"
+        ],
+        "anime": [
+            "l'histoire sans fin", "histoire sans fin"
+        ],
+        "difficulty": "secret",
+        "image": "image/secret/falkor.jpg"
+    },
+
+    {
+        "id": 28,
+        "character": [
+            "le dragon blanc aux yeux bleus"
+        ],
+        "anime": [
+            "Yu gi Oh", "yu-gi-oh"
+        ],
+        "difficulty": "secret",
+        "image": "image/secret/flemme.jpg"
+    },
+
+    {
+        "id": 29,
+        "character": [
+            "Haku"
+        ],
+        "anime": [
+            "Le Voyage de Chihiro", "Chihiro", "Sen to Chihiro no Kamikakushi"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/haku.jpg"
+    },
+
+    {
+        "id": 30,
+        "character": [
+            "krokmou"
+        ],
+        "anime": [
+            "How to train your dragon", "dragon"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/krokmou.jpg"
+    },
+
+    {
+        "id": 31,
+        "character": [
+            "kyurem"
+        ],
+        "anime": [
+            "Pokemon", "Pokemon noir et blanc"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/kyurem.jpg"
+    },
+
+    {
+        "id": 32,
+        "character": [
+            "Malefique", "Maléfique"
+        ],
+        "anime": [
+            "la belle au bois dormant", "belle au bois dormant"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/malefique.jpg"
+    },
+    
+    {
+        "id": 33,
+        "character": [
+            "Mushu"
+        ],
+        "anime": [
+            "Mulan"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/mushu.jpg"
+    },
+    
+    {
+        "id": 34,
+        "character": [
+            "spyro"
+        ],
+        "anime": [
+            "Spyro", "Spyro the Dragon"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/spyro.jpg"
+    },
+    
+    {
+        "id": 35,
+        "character": [
+            "Saphira"
+        ],
+        "anime": [
+            "Eragon"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/saphira.jpg"
+    },
+    
+    {
+        "id": 36,
+        "character": [
+            "Shenron"
+        ],
+        "anime": [
+            "Dragon Ball"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/shenron.jpg"
+    }
+
+]

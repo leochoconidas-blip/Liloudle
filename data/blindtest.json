@@ -1,0 +1,389 @@
+[
+    {
+        "id": 1,
+        "title": [
+            "Shinzou wo Sasageyo", "Sasageyo", "Op3", "OP1 S2"
+        ],
+        "anime": [
+            "SNK", "Shingeki no kyojin", "attack on titan", "aot", "attack on titan S2", "Snk S2", "Shingeki no kyojin S2", "aot S2"
+        ],
+        "category": "easy",
+        "audio": "audio/easy/Attack on Titan Season - Shinzou wo Sasageyo.mp3"
+    },
+
+    {
+        "id": 2,
+        "title": [
+            "Wind", "ending 1", "ed 1"
+        ],
+        "anime": [
+            "Naruto", "Norauto"
+        ],
+        "category": "easy",
+        "audio": "audio/easy/Naruto - Ending 1 Wind.mp3"
+    },
+
+    {
+        "id": 3,
+        "title": [
+            "Embrasse-la", "embrasse la", "embrasses la", "embrasses-la"
+        ],
+        "anime": [
+            "The Little Marmaid", "The little mermaid", "La Petite Sirene", "La petite sirene",
+            "La petite sirène", "La Petite Sirène"
+        ],
+        "category": "easy",
+        "audio": "audio/easy/Embrasse-la.mp3"
+    },
+
+    {
+        "id": 4,
+        "title": [
+            "Hohoemi no bakudan","Opening 1", "Op 1"
+        ],
+        "anime": [
+            "Yu yu Hakusho", "yuyuhakusho", "yuyu hakusho"
+        ],
+        "category": "easy",
+        "audio": "audio/easy/Yu Yu Hakusho - Hohoemi no Bakudan.mp3"
+    },
+
+    {
+        "id": 5,
+        "title": [
+            "Main theme", "Main Theme (Captured In Her Eyes Version)"
+        ],
+        "anime": [
+            "Detective Conan", "Conan"
+        ], 
+        "category": "easy",
+        "audio":   "audio/easy/Detective Conan Main Theme (Captured In Her Eyes Version).mp3"
+    },
+
+    {
+        "id": 6,
+        "title": [
+            "Lorsque je t'ai vu pour la première fois", "Lorsque je t'ai vu pour la premiere fois", "Opening 1", "Op 1", "generique", "Générique"
+        ],
+        "anime": [
+            "Kilari"
+        ],
+        "category": "easy",
+        "audio": "audio/easy/Kilari opening 1 vf.mp3"
+    },
+
+    {
+        "id": 7,
+        "title": [
+            "Here", "OP 1", "Opening 1"
+        ],
+        "anime": [
+            "The Ancient Magus Bride", "Magus bride", "Ancient Magus Bride"
+        ],
+        "category": "easy",
+        "audio": "audio/easy/The Ancient Magus Bride - Here.mp3"
+    },
+
+    {
+        "id": 8,
+        "title": [
+            "Mixed Nuts", "Op 1", "Opening 1"
+        ],
+        "anime": [
+            "Spyxfamily", "Spy x family"
+        ],
+        "category": "easy",
+        "audio": "audio/easy/SPYxFAMILY.mp3"
+    },
+
+    {
+        "id": 9,
+        "title": [
+            "My Will", "ED 1", "ending 1", "Ending Theme", "Ending", "Outro"
+        ],
+        "anime": [
+            "Inuyasha"
+        ],
+        "category": "easy",
+        "audio": "audio/easy/Inuyasha ending 1- My Will.mp3"
+    },
+
+    {
+        "id": 10,
+        "title": [
+            "Générique", "intro", "generique"
+        ],
+        "anime": [
+            "Buffy", "Buffy contre les vampires", "Buffy the Vampire Slayer"
+        ],
+        "category": "medium",
+        "audio": "audio/medium/Buffy the Vampire Slayer - Intro HD.mp3"
+    },
+
+    {
+        "id": 11,
+        "title": [
+            "Taht Persons Name Is", "Asterix boss battle theme"
+        ],
+        "anime": [
+            "Bravely Default"
+        ],
+        "category": "easy",
+        "audio": "audio/easy/That Persons Name Is Bravely Default OST Asterisk Boss Battle Theme High Quality.mp3"
+    },
+
+    {
+        "id": 12,
+        "title": [
+            "Le grand génie du mal", "le grand genie du mal"
+        ],
+        "anime": [
+            "Basil Detective prive", "Basil détectvie privé"
+        ],
+        "category": "medium",
+        "audio": "audio/medium/Basil Détective Privé - Le grand génie du mal.mp3"
+    },
+
+    {
+        "id": 13,
+        "title": [
+            "Doubt & Trust", "Opening 3", "Op 3"
+        ],
+        "anime": [
+            "D gray man", "d.gray-man"
+        ],
+        "category": "medium",
+        "audio": "audio/medium/D Gray Man Opening 3.mp3"
+    },
+
+    {
+        "id": 14,
+        "title": [
+            "L's Theme", "Ls theme"
+        ],
+        "anime": [
+            "Death note"
+        ],
+        "category": "medium",
+        "audio": "audio/medium/Ls theme.mp3"
+    },
+
+    {
+        "id": 15,
+        "title": [
+            "Seasons of Warfare", "The edge of dawn", "Lady of hresvelg"
+        ],
+        "anime": [
+            "Fire emblem three houses", "FE Three houses", "FE", "Fire Emblem"
+        ],
+        "category": "medium",
+        "audio": "audio/medium/Seasons of Warfare - Lady of Hresvelg (The Edge of Dawn) Full Ver..mp3"
+    },
+
+    {
+        "id": 16,
+        "title": [
+            "Moon Prism Power, Make Up!", "Moon Prism Power, Make Up!", "Moon Prism Power, Make Up!", "Tranformation", 
+            "Moon Crystal Power, Make Up!", "Moon Crystal Power, Make Up!", "Moon Crystal Power, Make Up!", "Transformation",
+            "Moon Cosmic Power, Make Up!", "Moon Cosmic Power, Make Up!", "Moon Cosmic Power, Make Up!", "Transformation"
+        ],
+        "anime": [
+            "Sailor Moon", "Sailor moon", "SailorMoon", "SailorMoon Crystal"
+        ],
+        "category": "secret",
+        "audio": "audio/secret/Sailor Moon OST - Moon Prism Power Make Up!.mp3"
+    },
+
+    {
+        "id": 17,
+        "title": [
+            "Bygone Days"
+        ],
+        "anime": [
+            "Porco Rosso"
+        ],
+        "category": "medium",
+        "audio": "audio/medium/The Bygone Days Porco Rosso.mp3"
+    },
+
+    {
+        "id": 18,
+        "title": [
+            "Uso", "Ending 1", "Ed 1"
+        ],
+        "anime": [
+            "FMAB", "fullmetal alchemist brotherhood", "FMA"
+        ],
+        "category": "medium",
+        "audio": "audio/medium/Fullmetal Alchemist Brotherhood - Ending 1 [4K 60FPS Creditless CC].mp3"
+    },
+
+    {
+        "id": 19,
+        "title": [
+            "generique", "générique"
+        ],
+        "anime": [
+            "Supers Nanas", "Super nana", "Les Supers Nanas", "Les super nanas"
+        ],
+        "category": "medium",
+        "audio": "audio/medium/Les Supers Nanas (1998) - Générique [VF] (1080p).mp3"
+    },
+
+    {
+        "id": 20,
+        "title": [
+            "Daisuki de daikirai"
+        ],
+        "anime": [
+            "Macross", "Macross Delta"
+        ],
+        "category": "hard",
+        "audio": "audio/hard/AXIA～ダイスキでダイキライ～.mp3"
+    },
+
+    {
+        "id": 21,
+        "title": [
+            "Gyakkou no Flugel", "Gyakkou no Fluegel", "Gyakkou no Flügel"
+        ],
+        "anime": [
+            "Senki Zesshō Symphogear", "Senki Zessho Symphogear", "Symphogear"
+        ],
+        "category": "hard",
+        "audio": "audio/hard/Gyakkou no Flügel.mp3"
+    },
+
+    {
+        "id": 22,
+        "title": [
+            "Dearly Beloved"
+        ],
+        "anime": [
+            "Kingdom Hearts", "KH"
+        ],
+        "category": "hard",
+        "audio": "audio/hard/Kingdom Hearts Dearly Beloved (Original Version).mp3"
+    },
+
+    {
+        "id": 23,
+        "title": [
+            "Noels Theme", "Kokia"
+        ],
+        "anime": [
+            "Final Fantasy XIII-2", "FF XIII-2", "FF 13.2", "FF 13-2"
+        ],
+        "category": "hard",
+        "audio": "audio/hard/KOKIA - Noels Theme - Final Fantasy XIII-2.mp3"
+    },
+
+    {
+        "id": 24,
+        "title": [
+            "Plus loin que dans mes rêves", "plus loin que dans mes reves"
+        ],
+        "anime": [
+            "le signe et la princesse"
+        ],
+        "category": "hard",
+        "audio": "audio/hard/Plus Loin Que Dans Mes Rêves.mp3"
+    },
+
+    {
+        "id": 25,
+        "title": [
+            "Rome was not built in a day"
+        ],
+        "anime": [
+            "School Rumble"
+        ],
+        "category": "hard",
+        "audio": "audio/hard/School Rumble - Rome Was Not Built In A Day.mp3"
+    },
+
+    {
+        "id": 26,
+        "title": [
+            "Existence", "opening 1", "OP 1"
+        ],
+        "anime": [
+            "SNB", "Shingeki no Bahamut", "SNB Genesis", "Shingeki no Bahamut Genesis", "Shingeki no Bahamut: Genesis"
+        ],
+        "category": "hard",
+        "audio": "audio/hard/SNB – EXiSTENCE.mp3"
+    },
+
+    {
+        "id": 27,
+        "title": [
+            "Kaze ni Naru"
+        ],
+        "anime": [
+            "The Cat Returns", "Le royaume des chats"
+        ],
+        "category": "hard",
+        "audio": "audio/hard/Vietsub+Kara The Cat Returns Kaze ni Naru.mp3"
+    },
+
+    {
+        "id": 28,
+        "title": [
+            "Aimer"
+        ],
+        "anime": [
+            "Roméo et Juliette", "Romeo et Juliette", "Roméo & Juliette", "Romeo & Juliette"
+        ],
+        "category": "hard",
+        "audio": "audio/hard/Roméo & Juliette - Aimer (Damien Sargue & Cécilia Cara).mp3"
+    },
+
+    {
+        "id": 29,
+        "title": [
+            "Lune"
+        ],
+        "anime": [
+            "Clair Obscur Expedition 33", "Clair Obscur", "Expedition 33"
+        ],
+        "category": "secret",
+        "audio": "audio/secret/Clair Obscur Expedition 33 (Original Soundtrack) 22 - Lune.mp3"
+    },
+
+    {
+        "id": 30,
+        "title": [
+            "Moon Halo", "Valkyrie theme"
+        ],
+        "anime": [
+            "Honkai impact 3rd"
+        ],
+        "category": "secret",
+        "audio": "audio/secret/Moon Halo - Honkai Impact 3rd Valkyrie Theme.mp3"
+    },
+
+    {
+        "id": 31,
+        "title": [
+            "Lune"
+        ],
+        "anime": [
+            "Notre Dame de Paris"
+        ],
+        "category": "secret",
+        "audio": "audio/secret/Notre Dame de Paris Lune.mp3"
+    },
+
+    {
+        "id": 32,
+        "title": [
+            "Dedicated to Moonlight", "Menphina Theme"
+        ],
+        "anime": [
+            "FF 14", "Final fantasy XIV", "FF XIV"
+        ],
+        "category": "secret",
+        "audio": "audio/secret/Dedicated to Moonlight (Menphina Theme) with Official Lyrics Final Fantasy XIV.mp3"
+    }
+
+]

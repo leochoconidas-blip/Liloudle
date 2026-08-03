@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Liloudle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Liloudle</h1>
+
+    <div id="modeSelection">
+        <button onclick="showCharacterMenu()">
+            Deviner les personnages
+        </button>
+
+        <button onclick="showBlindMenu()">
+            Blind Test
+        </button>
+
+        <button onclick="showQuizMenu()">
+            Quiz
+        </button>
+    </div>
+
+    <div id="menu"></div>
+
+    <div id="infos">
+        <p>Manche : <span id="round">1</span>/<span id="totalRounds">0</span></p>
+        <p>Score : <span id="score">0</span></p>
+    </div>
+
+    <div id="game"></div>
+
+    <script src="js/game.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/menu.js"></script>
+    <script src="js/characters.js?v=1"></script>
+    <script src="js/blindtest.js"></script>
+    <script src="js/quotes.js"></script>
+    <script src="js/qcm.js"></script>
+
+</body>
+
+</html>
